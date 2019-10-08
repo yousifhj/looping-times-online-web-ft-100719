@@ -1,5 +1,4 @@
 def using_times
-	counter = 0 
 
 7.times do	
 	puts "Wingardim Leviosa"
